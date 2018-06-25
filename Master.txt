@@ -6,3 +6,7 @@
 <Version: 1.02>
 /data/Map005.json https://raw.githubusercontent.com/Feargewinnt/Feargewinnt/master/Map005.json
 <End of Version>
+
+<Versio: 1.03>
+/js/plugins/customtextontitlescreen.js https://raw.githubusercontent.com/Feargewinnt/Feargewinnt/master/customtextontitlescreen.js
+<End of Version>
