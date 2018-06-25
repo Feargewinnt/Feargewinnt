@@ -2,3 +2,7 @@
 /data/Map005.json https://raw.githubusercontent.com/Feargewinnt/Feargewinnt/master/Map005.json
 /data/Map006.json https://raw.githubusercontent.com/Feargewinnt/Feargewinnt/master/Map006.json
 <End of Version>
+
+<Version: 1.02>
+/data/Map005.json https://raw.githubusercontent.com/Feargewinnt/Feargewinnt/master/Map005.json
+<End of Version>
