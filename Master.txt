@@ -7,6 +7,7 @@
 /data/Map005.json https://raw.githubusercontent.com/Feargewinnt/Feargewinnt/master/Map005.json
 <End of Version>
 
-<Versio: 1.03>
+<Version: 1.03>
 /js/plugins/customtextontitlescreen.js https://raw.githubusercontent.com/Feargewinnt/Feargewinnt/master/customtextontitlescreen.js
+/js/plugins/LB_ConfirmReload.js https://raw.githubusercontent.com/Feargewinnt/Feargewinnt/master/LB_ConfirmReload.js
 <End of Version>
